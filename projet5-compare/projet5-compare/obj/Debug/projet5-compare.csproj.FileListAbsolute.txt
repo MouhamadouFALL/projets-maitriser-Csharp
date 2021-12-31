@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet5-compare\projet5-compare\bin\Debug\projet5-compare.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet5-compare\projet5-compare\bin\Debug\projet5-compare.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet5-compare\projet5-compare\bin\Debug\projet5-compare.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet5-compare\projet5-compare\obj\Debug\projet5-compare.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet5-compare\projet5-compare\obj\Debug\projet5-compare.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet5-compare\projet5-compare\obj\Debug\projet5-compare.pdb

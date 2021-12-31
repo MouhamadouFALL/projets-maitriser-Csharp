@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet2\projet2\obj\Debug\projet2.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet2\projet2\bin\Debug\projet2.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet2\projet2\bin\Debug\projet2.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet2\projet2\bin\Debug\projet2.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet2\projet2\obj\Debug\projet2.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet2\projet2\obj\Debug\projet2.pdb

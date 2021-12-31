@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet14-client\projet14-client\obj\Debug\projet14-client.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet14-client\projet14-client\bin\Debug\projet14-client.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet14-client\projet14-client\bin\Debug\projet14-client.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet14-client\projet14-client\bin\Debug\projet14-client.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet14-client\projet14-client\obj\Debug\projet14-client.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet14-client\projet14-client\obj\Debug\projet14-client.pdb

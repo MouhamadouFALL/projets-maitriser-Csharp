@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet-4-conver-H-M-S\projet-4-conver-H-M-S\bin\Debug\projet-4-conver-H-M-S.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet-4-conver-H-M-S\projet-4-conver-H-M-S\bin\Debug\projet-4-conver-H-M-S.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet-4-conver-H-M-S\projet-4-conver-H-M-S\bin\Debug\projet-4-conver-H-M-S.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet-4-conver-H-M-S\projet-4-conver-H-M-S\obj\Debug\projet-4-conver-H-M-S.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet-4-conver-H-M-S\projet-4-conver-H-M-S\obj\Debug\projet-4-conver-H-M-S.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet-4-conver-H-M-S\projet-4-conver-H-M-S\obj\Debug\projet-4-conver-H-M-S.pdb

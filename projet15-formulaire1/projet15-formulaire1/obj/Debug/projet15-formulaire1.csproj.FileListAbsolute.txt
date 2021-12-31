@@ -1,0 +1,8 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\bin\Debug\projet15-formulaire1.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\bin\Debug\projet15-formulaire1.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\bin\Debug\projet15-formulaire1.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\obj\Debug\projet15-formulaire1.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\obj\Debug\projet15_formulaire1.MainForm.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\obj\Debug\projet15-formulaire1.csproj.GenerateResource.Cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\obj\Debug\projet15-formulaire1.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet15-formulaire1\projet15-formulaire1\obj\Debug\projet15-formulaire1.pdb

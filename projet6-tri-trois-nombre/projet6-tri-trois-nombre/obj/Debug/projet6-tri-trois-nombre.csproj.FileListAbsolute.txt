@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet6-tri-trois-nombre\projet6-tri-trois-nombre\bin\Debug\projet6-tri-trois-nombre.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet6-tri-trois-nombre\projet6-tri-trois-nombre\bin\Debug\projet6-tri-trois-nombre.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet6-tri-trois-nombre\projet6-tri-trois-nombre\bin\Debug\projet6-tri-trois-nombre.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet6-tri-trois-nombre\projet6-tri-trois-nombre\obj\Debug\projet6-tri-trois-nombre.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet6-tri-trois-nombre\projet6-tri-trois-nombre\obj\Debug\projet6-tri-trois-nombre.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet6-tri-trois-nombre\projet6-tri-trois-nombre\obj\Debug\projet6-tri-trois-nombre.pdb

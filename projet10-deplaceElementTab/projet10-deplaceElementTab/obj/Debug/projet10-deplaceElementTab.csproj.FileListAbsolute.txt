@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet10-deplaceElementTab\projet10-deplaceElementTab\bin\Debug\projet10-deplaceElementTab.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet10-deplaceElementTab\projet10-deplaceElementTab\bin\Debug\projet10-deplaceElementTab.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet10-deplaceElementTab\projet10-deplaceElementTab\bin\Debug\projet10-deplaceElementTab.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet10-deplaceElementTab\projet10-deplaceElementTab\obj\Debug\projet10-deplaceElementTab.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet10-deplaceElementTab\projet10-deplaceElementTab\obj\Debug\projet10-deplaceElementTab.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet10-deplaceElementTab\projet10-deplaceElementTab\obj\Debug\projet10-deplaceElementTab.pdb

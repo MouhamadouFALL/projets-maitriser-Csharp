@@ -1,0 +1,12 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\bin\Debug\projet16-fromulaires.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\bin\Debug\projet16-fromulaires.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\bin\Debug\projet16-fromulaires.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16-fromulaires.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16_fromulaires.FormBleu.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16_fromulaires.FormJaune.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16_fromulaires.FormRouge.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16_fromulaires.FormVert.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16_fromulaires.MainForm.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16-fromulaires.csproj.GenerateResource.Cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16-fromulaires.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet16-fromulaires\projet16-fromulaires\obj\Debug\projet16-fromulaires.pdb

@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet8-triangle-premier\projet8-triangle-premier\bin\Debug\projet8-triangle-premier.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet8-triangle-premier\projet8-triangle-premier\bin\Debug\projet8-triangle-premier.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet8-triangle-premier\projet8-triangle-premier\bin\Debug\projet8-triangle-premier.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet8-triangle-premier\projet8-triangle-premier\obj\Debug\projet8-triangle-premier.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet8-triangle-premier\projet8-triangle-premier\obj\Debug\projet8-triangle-premier.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet8-triangle-premier\projet8-triangle-premier\obj\Debug\projet8-triangle-premier.pdb

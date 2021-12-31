@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\pprojet9-tableau\pprojet9-tableau\obj\Debug\pprojet9-tableau.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\pprojet9-tableau\pprojet9-tableau\bin\Debug\pprojet9-tableau.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\pprojet9-tableau\pprojet9-tableau\bin\Debug\pprojet9-tableau.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\pprojet9-tableau\pprojet9-tableau\bin\Debug\pprojet9-tableau.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\pprojet9-tableau\pprojet9-tableau\obj\Debug\pprojet9-tableau.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\pprojet9-tableau\pprojet9-tableau\obj\Debug\pprojet9-tableau.pdb

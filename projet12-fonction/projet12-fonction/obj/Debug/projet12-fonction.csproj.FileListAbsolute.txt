@@ -1,0 +1,6 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet12-fonction\projet12-fonction\obj\Debug\projet12-fonction.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet12-fonction\projet12-fonction\bin\Debug\projet12-fonction.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet12-fonction\projet12-fonction\bin\Debug\projet12-fonction.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet12-fonction\projet12-fonction\bin\Debug\projet12-fonction.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet12-fonction\projet12-fonction\obj\Debug\projet12-fonction.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet12-fonction\projet12-fonction\obj\Debug\projet12-fonction.pdb
