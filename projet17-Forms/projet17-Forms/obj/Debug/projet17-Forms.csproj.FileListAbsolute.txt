@@ -1,0 +1,10 @@
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\bin\Debug\projet17-Forms.exe.config
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\bin\Debug\projet17-Forms.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\bin\Debug\projet17-Forms.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\obj\Debug\projet17-Forms.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\obj\Debug\projet17_Forms.MainForm.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\obj\Debug\projet17_Forms.Recapitulatif.resources
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\obj\Debug\projet17-Forms.csproj.GenerateResource.Cache
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\obj\Debug\projet17-Forms.exe
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\obj\Debug\projet17-Forms.pdb
+C:\Users\nabyFall\Documents\SharpDevelop Projects\projet17-Forms\projet17-Forms\obj\Debug\projet17_Forms.Help.resources
