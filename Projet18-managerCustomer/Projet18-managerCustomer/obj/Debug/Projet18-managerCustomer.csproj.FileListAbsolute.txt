@@ -1,0 +1,11 @@
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18-managerCustomer.csproj.SuggestedBindingRedirects.cache
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18_managerCustomer.Client.resources
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18_managerCustomer.Properties.Resources.resources
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18-managerCustomer.csproj.GenerateResource.cache
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18-managerCustomer.csproj.CoreCompileInputs.cache
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\bin\Debug\Projet18-managerCustomer.exe.config
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\bin\Debug\Projet18-managerCustomer.exe
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\bin\Debug\Projet18-managerCustomer.pdb
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18-managerCustomer.exe
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18-managerCustomer.pdb
+C:\Users\nabyFall\source\repos\Projet18-managerCustomer\Projet18-managerCustomer\obj\Debug\Projet18-managerCustomer.csproj.AssemblyReference.cache
