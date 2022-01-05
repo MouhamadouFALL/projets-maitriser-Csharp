@@ -42,6 +42,9 @@ namespace Projet18_managerCustomer
             rnaissance.Text = client.Naissance;
             rnationalite.Text = client.Nationatile;
             rniveau.Text = client.Niveau;
+
+            DBConnect dBConnect = new DBConnect();
+            dBConnect.Insert();
         }
     }
 }

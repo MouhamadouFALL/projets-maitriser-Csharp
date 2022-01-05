@@ -95,9 +95,9 @@
             // 
             // btnQuit
             // 
-            this.btnQuit.Location = new System.Drawing.Point(103, 370);
+            this.btnQuit.Location = new System.Drawing.Point(10, 378);
             this.btnQuit.Name = "btnQuit";
-            this.btnQuit.Size = new System.Drawing.Size(81, 40);
+            this.btnQuit.Size = new System.Drawing.Size(98, 40);
             this.btnQuit.TabIndex = 17;
             this.btnQuit.Text = "Quitter";
             this.btnQuit.UseVisualStyleBackColor = true;
@@ -200,7 +200,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(7, 148);
+            this.label5.Location = new System.Drawing.Point(1, 148);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(34, 13);
             this.label5.TabIndex = 4;
@@ -268,7 +268,7 @@
             // 
             // btnEffacer
             // 
-            this.btnEffacer.Location = new System.Drawing.Point(72, 336);
+            this.btnEffacer.Location = new System.Drawing.Point(55, 310);
             this.btnEffacer.Name = "btnEffacer";
             this.btnEffacer.Size = new System.Drawing.Size(111, 38);
             this.btnEffacer.TabIndex = 17;
@@ -354,7 +354,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(7, 148);
+            this.label12.Location = new System.Drawing.Point(4, 148);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(34, 13);
             this.label12.TabIndex = 4;
