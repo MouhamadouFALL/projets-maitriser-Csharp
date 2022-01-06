@@ -46,5 +46,21 @@ namespace Projet18_managerCustomer
             DBConnect dBConnect = new DBConnect();
             dBConnect.Insert(client.Id, client.Nom, client.Prenom, client.Solde, client.Naissance, client.Nationatile, client.Niveau);
         }
+
+        private void btnQuit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnAnnuler_Click(object sender, EventArgs e)
+        {
+            id.Text = null;
+            nom.Text = null;
+            prenom.Text = null;
+            solde.Text = null;
+            naissance.Text = null;
+            nationalite.Text = null;
+            niveau.Text = null;
+        }
     }
 }

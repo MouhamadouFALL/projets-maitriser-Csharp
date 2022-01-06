@@ -101,6 +101,7 @@
             this.btnQuit.TabIndex = 17;
             this.btnQuit.Text = "Quitter";
             this.btnQuit.UseVisualStyleBackColor = true;
+            this.btnQuit.Click += new System.EventHandler(this.btnQuit_Click);
             // 
             // btnAnnuler
             // 
@@ -110,6 +111,7 @@
             this.btnAnnuler.TabIndex = 16;
             this.btnAnnuler.Text = "Annuler";
             this.btnAnnuler.UseVisualStyleBackColor = true;
+            this.btnAnnuler.Click += new System.EventHandler(this.btnAnnuler_Click);
             // 
             // btnValider
             // 
