@@ -62,11 +62,11 @@ namespace Projet18_managerCustomer
             }
         }
 
-        public void Insert(int code, string nom, string prenom, int solde, string naissance, string nationalite, string niveau)
+        public void Insert(Customer c)
         {
             // définir la requête 
             string request = "INSERT INTO customers(code, nom, prenom, solde, naissance, nationalite, niveau)" 
-                + " VALUES("+code+", '"+ nom + "', '" + prenom + "', '" + solde + "', '" + naissance + "', '" + nationalite + "', '" + niveau + "')";
+                + " VALUES("+c.Id+", '"+ c.Nom + "', '" + c.Prenom + "', '" + c.Solde + "', '" + c.Naissance + "', '" + c.Nationatile + "', '" + c.Niveau + "')";
 
             if (this.OpenConnexion() == true) // vérifier si la connexion à été ouvert
             {
@@ -75,6 +75,20 @@ namespace Projet18_managerCustomer
                 this.conn.Close(); // fermer la session de connexion
             }
         }
+
+        /*public void Insert1(int code, string nom, string prenom, int solde, string naissance, string nationalite, string niveau)
+        {
+            // définir la requête 
+            string request = "INSERT INTO customers(code, nom, prenom, solde, naissance, nationalite, niveau)"
+                + " VALUES(" + code + ", '" + nom + "', '" + prenom + "', '" + solde + "', '" + naissance + "', '" + nationalite + "', '" + niveau + "')";
+
+            if (this.OpenConnexion() == true) // vérifier si la connexion à été ouvert
+            {
+                MySqlCommand cmd = new MySqlCommand(request, conn);
+                cmd.ExecuteNonQuery(); // Exécter la requpete
+                this.conn.Close(); // fermer la session de connexion
+            }
+        }*/
 
     }
 }

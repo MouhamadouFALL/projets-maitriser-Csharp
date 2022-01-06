@@ -44,7 +44,7 @@ namespace Projet18_managerCustomer
             rniveau.Text = client.Niveau;
 
             DBConnect dBConnect = new DBConnect();
-            dBConnect.Insert(client.Id, client.Nom, client.Prenom, client.Solde, client.Naissance, client.Nationatile, client.Niveau);
+            dBConnect.Insert(client);
         }
 
         private void Clean()
