@@ -47,12 +47,7 @@ namespace Projet18_managerCustomer
             dBConnect.Insert(client.Id, client.Nom, client.Prenom, client.Solde, client.Naissance, client.Nationatile, client.Niveau);
         }
 
-        private void btnQuit_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-        private void btnAnnuler_Click(object sender, EventArgs e)
+        private void Clean()
         {
             id.Text = null;
             nom.Text = null;
@@ -61,6 +56,34 @@ namespace Projet18_managerCustomer
             naissance.Text = null;
             nationalite.Text = null;
             niveau.Text = null;
+        }
+
+        private void btnQuit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnAnnuler_Click(object sender, EventArgs e)
+        {
+            this.Clean();
+        }
+
+        private void btnEffacer_Click(object sender, EventArgs e)
+        {
+            rid.Text = null;
+            //rid.Visible = false;
+            rnom.Text = null;
+            //rnom.Visible = false;
+            rprenom.Text = null;
+            //rprenom.Visible = false;
+            rsolde.Text = null;
+            //rsolde.Visible = false;
+            rnaissance.Text = null;
+            //rnaissance.Visible = false;
+            rnationalite.Text = null;
+            //rnationalite.Visible = false;
+            rniveau.Text = null;
+            //rniveau.Visible = false;
         }
     }
 }

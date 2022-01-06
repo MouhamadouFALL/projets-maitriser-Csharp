@@ -276,6 +276,7 @@
             this.btnEffacer.TabIndex = 17;
             this.btnEffacer.Text = "Effacer";
             this.btnEffacer.UseVisualStyleBackColor = true;
+            this.btnEffacer.Click += new System.EventHandler(this.btnEffacer_Click);
             // 
             // rniveau
             // 
