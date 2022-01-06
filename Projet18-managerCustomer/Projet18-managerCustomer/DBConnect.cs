@@ -61,10 +61,10 @@ namespace Projet18_managerCustomer
             }
         }
 
-        public void Insert()
+        public void Insert(int code, string nom, string prenom, int solde, string naissance, string nationalite, string niveau)
         {
             string request = "INSERT INTO customers(code, nom, prenom, solde, naissance, nationalite, niveau)" 
-                + " VALUES(121014, 'FALL', 'Naby', 121415, '12/12/1999', 'SEN', 'MP1ISI')";
+                + " VALUES("+code+", '"+ nom + "', '" + prenom + "', '" + solde + "', '" + naissance + "', '" + nationalite + "', '" + niveau + "')";
 
             if (this.OpenConnexion() == true)
             {

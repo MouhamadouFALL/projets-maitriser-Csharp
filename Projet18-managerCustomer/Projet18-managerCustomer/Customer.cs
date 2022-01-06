@@ -11,7 +11,7 @@ namespace Projet18_managerCustomer
         private int code;
         private string nom;
         private string prenom;
-        private double solde;
+        private int solde;
         private string naissance;
         private string nationatile;
         private string niveau;
@@ -34,7 +34,7 @@ namespace Projet18_managerCustomer
         public string Prenom
         { get { return prenom; } set { prenom = value; } }
 
-        public double Solde
+        public int Solde
         { get { return solde; } set { solde = value; } }
 
         public string Naissance

@@ -30,7 +30,7 @@ namespace Projet18_managerCustomer
             client.Id = int.Parse(id.Text);
             client.Nom = nom.Text;
             client.Prenom = prenom.Text;
-            client.Solde = double.Parse(solde.Text);
+            client.Solde = int.Parse(solde.Text);
             client.Naissance = naissance.Text;
             client.Nationatile = nationalite.Text;
             client.Niveau = niveau.Text;
@@ -44,7 +44,7 @@ namespace Projet18_managerCustomer
             rniveau.Text = client.Niveau;
 
             DBConnect dBConnect = new DBConnect();
-            dBConnect.Insert();
+            dBConnect.Insert(client.Id, client.Nom, client.Prenom, client.Solde, client.Naissance, client.Nationatile, client.Niveau);
         }
     }
 }
