@@ -8,3 +8,13 @@ C:\Users\nabyFall\Documents\SharpDevelop Projects\Evaluation1\Evaluation1\obj\De
 C:\Users\nabyFall\Documents\SharpDevelop Projects\Evaluation1\Evaluation1\obj\Debug\Evaluation1.exe
 C:\Users\nabyFall\Documents\SharpDevelop Projects\Evaluation1\Evaluation1\obj\Debug\Evaluation1.pdb
 C:\Users\nabyFall\Documents\SharpDevelop Projects\Evaluation1\Evaluation1\obj\Debug\Evaluation1.F1.resources
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\bin\Debug\Evaluation1.exe.config
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\bin\Debug\Evaluation1.exe
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\bin\Debug\Evaluation1.pdb
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\obj\Debug\Evaluation1.csprojResolveAssemblyReference.cache
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\obj\Debug\Evaluation1.F1.resources
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\obj\Debug\Evaluation1.F2.resources
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\obj\Debug\Evaluation1.MainForm.resources
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\obj\Debug\Evaluation1.csproj.GenerateResource.Cache
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\obj\Debug\Evaluation1.exe
+C:\Users\nabyFall\Desktop\projects-to-master-C-\Evaluation1\Evaluation1\obj\Debug\Evaluation1.pdb

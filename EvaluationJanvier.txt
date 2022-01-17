@@ -1,0 +1,18 @@
+TAF:
+
+Créer un projet évaluationJanvier
+Contenant:
+	- La classe produit
+	- Le Formulaire de saisie d'un produit
+	- Le formulaire de recup.ration d'un produit
+Prévoir d'insérer les produits saisies dans la table de Produit
+Base de données : bdproduitjanvier
+Tble : Produit 
+
+
+Créer:
+
+  - Formulaire Affichage
+  - Formulaire de recherche
+  - Formulaire de Modification
+  - Formulaire de Suppression

@@ -1,0 +1,20 @@
+creer un projet qui permet de contrôler la saisie d'une valeur entière.
+Le projet détermine et affiche sa table de mutiplication
+Détermine si le nombre est premier ou pas et enfin s'il est parfait ou pas
+
+Creer un prjet qui pemet de saisir la taille du tableau.
+Le programme remplit le tableau en y mettant les n premiers nombres premiers, affiche le tableau, détermine l'écare entre le max et le min puis l'affiche.
+
+- Mode de transmission par copie de valeur
+
+
+Créer un projet C# qui contient les fonctions suivantes:
+	- Une fonction de controle de la saisie d'une valeur entiere
+	- une fonction qui recoit un entier puis renvoie son cube
+	- une fonction qui recoit un entier puis determine le resutat de l'expression suiante : somme de (n+1)au cube
+	- une fonction aui recoit un entier puis affiche les tables de multiplication des entiers paires compris entre un et la valeur recue
+	- une fonction pour le menu
+
+
+Creer un projet c# contenant la classe client les proprietes du client sont : code, nom, prenom, nationalite, sexe, age, pouvoirAchat et son adresse
+- Enregistrer les clients dans une liste, derterminer le montant totale des pouvoir Achat des clients et l'afficher
